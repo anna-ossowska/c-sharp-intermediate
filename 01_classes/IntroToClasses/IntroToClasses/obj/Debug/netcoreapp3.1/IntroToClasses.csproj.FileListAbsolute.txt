@@ -10,3 +10,4 @@ C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClass
 C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\obj\Debug\netcoreapp3.1\IntroToClasses.dll
 C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\obj\Debug\netcoreapp3.1\IntroToClasses.pdb
 C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\obj\Debug\netcoreapp3.1\IntroToClasses.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\obj\Debug\netcoreapp3.1\IntroToClasses.csprojAssemblyReference.cache

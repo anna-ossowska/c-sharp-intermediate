@@ -2,11 +2,31 @@
 
 namespace IntroToClasses
 {
+
+    public class Person
+    {
+        public string Name;
+
+        public void Introduce(string to)
+        {
+            Console.WriteLine($"Hi {to}, I am {Name}.");
+        }
+
+        public static Person Parse(string str)
+        {
+            var person = new Person();
+            person.Name = str;
+
+            return person;
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Initial commit");
+            var person = Person.Parse("Anna");
+            person.Introduce("Stranger");
         }
     }
 }
