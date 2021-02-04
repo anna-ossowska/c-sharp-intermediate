@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\bin\Debug\netcoreapp3.1\IntroToClasses.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\bin\Debug\netcoreapp3.1\IntroToClasses.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\bin\Debug\netcoreapp3.1\IntroToClasses.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\bin\Debug\netcoreapp3.1\IntroToClasses.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\bin\Debug\netcoreapp3.1\IntroToClasses.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\bin\Debug\netcoreapp3.1\IntroToClasses.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\obj\Debug\netcoreapp3.1\IntroToClasses.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\obj\Debug\netcoreapp3.1\IntroToClasses.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\obj\Debug\netcoreapp3.1\IntroToClasses.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\obj\Debug\netcoreapp3.1\IntroToClasses.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\obj\Debug\netcoreapp3.1\IntroToClasses.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\IntroToClasses\IntroToClasses\obj\Debug\netcoreapp3.1\IntroToClasses.genruntimeconfig.cache
