@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.genruntimeconfig.cache
