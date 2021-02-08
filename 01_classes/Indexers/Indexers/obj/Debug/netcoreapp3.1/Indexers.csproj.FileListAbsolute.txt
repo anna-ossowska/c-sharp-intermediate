@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache
