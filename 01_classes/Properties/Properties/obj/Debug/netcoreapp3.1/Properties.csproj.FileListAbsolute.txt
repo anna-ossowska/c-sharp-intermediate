@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\01_classes\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
