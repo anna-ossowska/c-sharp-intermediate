@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\02_association_between_classes\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.genruntimeconfig.cache
