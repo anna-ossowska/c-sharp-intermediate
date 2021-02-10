@@ -1,0 +1,4 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\AccessModifiers\Client\obj\Debug\netstandard2.0\Client.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\AccessModifiers\Client\obj\Debug\netstandard2.0\Client.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\AccessModifiers\Client\obj\Debug\netstandard2.0\Client.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\AccessModifiers\Client\obj\Debug\netstandard2.0\Client.csproj.CoreCompileInputs.cache
