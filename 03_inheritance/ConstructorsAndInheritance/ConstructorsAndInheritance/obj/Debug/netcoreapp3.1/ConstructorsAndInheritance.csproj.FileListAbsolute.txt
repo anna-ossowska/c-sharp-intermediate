@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\netcoreapp3.1\ConstructorsAndInheritance.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\netcoreapp3.1\ConstructorsAndInheritance.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\netcoreapp3.1\ConstructorsAndInheritance.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\netcoreapp3.1\ConstructorsAndInheritance.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\netcoreapp3.1\ConstructorsAndInheritance.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\netcoreapp3.1\ConstructorsAndInheritance.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\netcoreapp3.1\ConstructorsAndInheritance.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\netcoreapp3.1\ConstructorsAndInheritance.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\netcoreapp3.1\ConstructorsAndInheritance.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\netcoreapp3.1\ConstructorsAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\netcoreapp3.1\ConstructorsAndInheritance.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\netcoreapp3.1\ConstructorsAndInheritance.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\netcoreapp3.1\ConstructorsAndInheritance.genruntimeconfig.cache
