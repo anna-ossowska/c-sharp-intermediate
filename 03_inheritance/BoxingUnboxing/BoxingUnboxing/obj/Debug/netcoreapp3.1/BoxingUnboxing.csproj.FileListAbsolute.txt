@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.genruntimeconfig.cache
