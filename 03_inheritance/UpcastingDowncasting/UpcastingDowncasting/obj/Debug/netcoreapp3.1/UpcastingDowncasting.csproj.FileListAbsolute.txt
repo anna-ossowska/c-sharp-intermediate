@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.genruntimeconfig.cache
