@@ -1,0 +1,15 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\bin\Debug\WpfUpcastingDowncasting.exe.config
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\bin\Debug\WpfUpcastingDowncasting.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\bin\Debug\WpfUpcastingDowncasting.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\WpfUpcastingDowncasting.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\MainWindow.g.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\App.g.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\WpfUpcastingDowncasting_MarkupCompile.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\WpfUpcastingDowncasting_MarkupCompile.lref
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\MainWindow.baml
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\WpfUpcastingDowncasting.g.resources
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\WpfUpcastingDowncasting.Properties.Resources.resources
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\WpfUpcastingDowncasting.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\WpfUpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\WpfUpcastingDowncasting.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\03_inheritance\WpfUpcastingDowncasting\WpfUpcastingDowncasting\obj\Debug\WpfUpcastingDowncasting.pdb
