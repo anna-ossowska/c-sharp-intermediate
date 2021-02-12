@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\MethodOverriding\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.genruntimeconfig.cache
