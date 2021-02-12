@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\04_polymorphism\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.genruntimeconfig.cache
