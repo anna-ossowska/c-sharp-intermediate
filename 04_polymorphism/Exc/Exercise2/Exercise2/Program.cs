@@ -6,7 +6,10 @@ namespace Exercise2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var sqlConnection = new SqlConnection("data");
+
+            var command = new DbCommand(sqlConnection, "This is my instruction.");
+            command.Execute();
         }
     }
 }
