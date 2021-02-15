@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.exe
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.deps.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.dll
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.pdb
+C:\Users\tomas\Documents\anna\repos\c-sharp-intermediate\05_interfaces\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.genruntimeconfig.cache
